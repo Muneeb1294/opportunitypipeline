@@ -26899,7 +26899,7 @@ return A.a9(new A.U(a,new A.aIO(),s),!0,s.i("o.E"))
 case 10:s=A.V(a).i("U<1>")
 return A.a9(new A.U(a,new A.aIG(),s),!0,s.i("o.E"))}},
 baQ(a,b,c){var s=null,r=A.HQ(B.YL,new A.aJX(a),s)
-A.aOq(s,new A.aJY(new A.vn(B.YP,B.YF,A.a([r,A.HQ(B.YI,new A.aJZ(b,a,!0),s)],t.p),s)),a,s,!0,t.z)},
+A.aOq(s,new A.aJY(new A.vn(B.YP,B.YG,A.a([r,A.HQ(B.YI,new A.aJZ(b,a,!0),s)],t.p),s)),a,s,!0,t.z)},
 aIR:function aIR(){},
 aIS:function aIS(){},
 aIT:function aIT(){},
@@ -94094,7 +94094,7 @@ l=this.a
 k=A.bs(8)
 j=A.V(r).i("U<1>")
 i=t.p
-return A.de(A.ao(h,A.bg(A.a([new A.el(B.oS,h,h,m,h),B.YH,B.C_,new A.b7(h,g.b*0.02,h,h),A.rM(B.du,A.iG(A.ao(h,A.eE(!0,!1,l.f,B.o,B.JT,!0,!1,h,h,B.ia,1,!1,new A.aEJ(l),h,h,h,h,!1,h,B.o4,B.B,h,h),B.f,h,h,h,h,h,h,B.jl,B.jk,h,h,h),B.aU,2,new A.cl(k,B.r)),l.e),A.ao(h,A.jQ(A.bg(A.x7(A.a9(new A.U(r,new A.aEK(l,s),j),!0,j.i("o.E")).length,new A.aEL(l,r,s),!0,t.l),B.p,B.m,B.l),h,B.z,h,h,h,B.D),B.f,h,h,h,h,120,h,h,B.ji,h,h,h),A.c2(A.a([A.bT(A.bg(A.a([B.YN,l.a00(s,r)],i),B.p,B.m,B.l),1),A.bT(A.bg(A.a([B.YR,l.a01(s,r)],i),B.p,B.m,B.l),1)],i),B.p,B.m,B.l,h)],i),B.p,B.m,B.aD),B.f,h,h,new A.ca(B.k,h,h,o,h,h,h,B.R),h,h,h,h,new A.ad(p,q,p,q),h,h,n.a*0.9),h,h,h)}},
+return A.de(A.ao(h,A.bg(A.a([new A.el(B.oS,h,h,m,h),B.YD,B.C_,new A.b7(h,g.b*0.02,h,h),A.rM(B.du,A.iG(A.ao(h,A.eE(!0,!1,l.f,B.o,B.JT,!0,!1,h,h,B.ia,1,!1,new A.aEJ(l),h,h,h,h,!1,h,B.o4,B.B,h,h),B.f,h,h,h,h,h,h,B.jl,B.jk,h,h,h),B.aU,2,new A.cl(k,B.r)),l.e),A.ao(h,A.jQ(A.bg(A.x7(A.a9(new A.U(r,new A.aEK(l,s),j),!0,j.i("o.E")).length,new A.aEL(l,r,s),!0,t.l),B.p,B.m,B.l),h,B.z,h,h,h,B.D),B.f,h,h,h,h,120,h,h,B.ji,h,h,h),A.c2(A.a([A.bT(A.bg(A.a([B.YN,l.a00(s,r)],i),B.p,B.m,B.l),1),A.bT(A.bg(A.a([B.YR,l.a01(s,r)],i),B.p,B.m,B.l),1)],i),B.p,B.m,B.l,h)],i),B.p,B.m,B.aD),B.f,h,h,new A.ca(B.k,h,h,o,h,h,h,B.R),h,h,h,h,new A.ad(p,q,p,q),h,h,n.a*0.9),h,h,h)}},
 $S:601}
 A.aEG.prototype={
 $1(a){var s=a.th(0)
@@ -100636,8 +100636,8 @@ B.C_=new A.el(B.iG,null,null,B.YU,null)
 B.cU=new A.d7(-1,-1)
 B.dE=new A.X(4283608662)
 B.WP=new A.C(!0,B.dE,null,null,null,null,28,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YE=new A.cP("Personal Information",null,B.WP,null,null,null,null,null,null,null,null,null,null)
-B.C0=new A.el(B.cU,null,null,B.YE,null)
+B.YF=new A.cP("Personal Information",null,B.WP,null,null,null,null,null,null,null,null,null,null)
+B.C0=new A.el(B.cU,null,null,B.YF,null)
 B.oP=new A.fN(0,1)
 B.oQ=new A.fN(0,-1)
 B.ei=new A.fN(1,0)
@@ -101700,8 +101700,8 @@ B.r5=A.a(s([200,202]),t.t)
 B.r6=A.a(s([B.dO,B.h4,B.cz,B.F,B.b2,B.dP,B.aJ,B.ez,B.eA]),A.a1("r<hG>"))
 B.Jg=new A.cH(58291,!1)
 B.Jt=new A.cV(B.Jg,22,null,null)
-B.YG=new A.cP("Sign Out",null,B.o6,null,null,null,null,null,null,null,null,null,null)
-B.Rp=new A.aY(B.dK,B.YG,null)
+B.YH=new A.cP("Sign Out",null,B.o6,null,null,null,null,null,null,null,null,null,null)
+B.Rp=new A.aY(B.dK,B.YH,null)
 B.L9=A.a(s([B.Jt,B.Rp]),t.p)
 B.r7=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.La=A.a(s([37,194,165,194,177,195,171,10]),t.t)
@@ -103490,8 +103490,8 @@ B.Uw=new A.o_(B.o,null,B.aj,null,null,B.ab,B.aj,null)
 B.Ux=new A.o_(B.o,null,B.aj,null,null,B.aj,B.ab,null)
 B.Uy=new A.HM(null,null,null,null,null,null,null,null,null,null)
 B.fo=new A.C(!0,B.at,null,null,null,null,24,B.aJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YD=new A.cP("Actualize",null,B.fo,null,null,null,null,null,null,null,null,null,null)
-B.IB=new A.rC(B.YD,null)
+B.YE=new A.cP("Actualize",null,B.fo,null,null,null,null,null,null,null,null,null,null)
+B.IB=new A.rC(B.YE,null)
 B.Uz=new A.uj(B.IB,null)
 B.YX=new A.cP("Insight",null,B.fo,null,null,null,null,null,null,null,null,null,null)
 B.Iz=new A.rC(B.YX,null)
@@ -103815,8 +103815,8 @@ B.XN=new A.C(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Xq=new A.C(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.YC=new A.h4(B.X8,B.Yl,B.Y4,B.VP,B.XX,B.X_,B.Yp,B.Wf,B.WI,B.XR,B.VK,B.Y6,B.XV,B.XN,B.Xq)
 B.o9=new A.I4(1,"longestLine")
-B.YF=new A.cP("Are you sure to delete the Opportunity?",null,null,null,null,null,null,null,null,null,null,null,null)
-B.YH=new A.cP("Share Opportunity Pipeline?",null,B.cO,null,null,null,null,null,null,null,null,null,null)
+B.YD=new A.cP("Share Opportunity Pipeline",null,B.cO,null,null,null,null,null,null,null,null,null,null)
+B.YG=new A.cP("Are you sure to delete the Opportunity?",null,null,null,null,null,null,null,null,null,null,null,null)
 B.YI=new A.cP("Yes",null,null,null,null,null,null,null,null,null,null,null,null)
 B.YK=new A.cP("Delete",null,null,null,null,null,null,null,null,null,null,null,null)
 B.YL=new A.cP("Cancel",null,null,null,null,null,null,null,null,null,null,null,null)
